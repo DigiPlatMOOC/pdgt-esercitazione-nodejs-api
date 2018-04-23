@@ -23,3 +23,6 @@ Di seguito alcune esercitazioni di prova:
 - [ ] Sostituire tutte le risposte del server con testo semplice (ad esempio al metodo `GET /person`) con un oggetto JSON che possa aver senso per un eventuale client dell’API,
 - [ ] Visto che i dati in memoria vengono persi quando il server&nbsp;NodeJS viene riavviato (ad ogni modifica del codice), usare il [modulo "File System" di NodeJS](https://nodejs.org/api/fs.html#fs_file_system) per scrivere e leggere l’array su disco quando necessario,
 - [ ] Usare il [modulo "HTTP" di NodeJS](https://nodejs.org/api/http.html#http_http) per inviare richieste HTTP e quindi sfruttare Google&nbsp;Firebase come database esterno tramite la sua API HTTP (fare riferimento all’[esercitazione relativa](https://github.com/DigiPlatMOOC/pdgt-esercitazione-firebase)).
+
+La cartella `esempi` di questa repository contiene alcuni esempi funzionanti, sviluppati sulla base del [progetto d’esempio su Glitch](https://glitch.com/edit/#!/pdgt-nodejs-api), che possono essere utilizzati come guida.
+È possibile copiare il contenuto dei file di esempio direttamente nel file `server.js` del proprio progetto Glitch.com per provarlo.
