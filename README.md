@@ -6,7 +6,7 @@ Non è prevista la consegna del codice, ma si consiglia di effettuare degli espe
 
 ## Procedura
 
-1. Accedere al progetto d’esempio su Glitch e cliccare su "Remix this",
+1. Accedere al [progetto d’esempio su Glitch](https://glitch.com/~pdgt-nodejs-api) e cliccare su "Remix this",
 1. Aprire il file `server.js`,
 1. Prendere in esame il codice presente e, in particolare, studiare:
     1. Come avviene la specifica dei vari metodi previsti dalle API (tramite le varie chiamate `app.get` e `app.post`),
